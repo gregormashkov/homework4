@@ -94,6 +94,7 @@ public class Main {
         System.out.println("Маша стала получать " + newSalaryOne + " рублей в месяц, разница между её годовыми доходами составила " + differencePerYearOne + " рублей");
         System.out.println("Денис стал получать " + newSalaryTwo + " рублей в месяц, разница между её годовыми доходами составила " + differencePerYearTwo + " рублей");
         System.out.println("Кристина стала получать " + newSalaryThree + " рублей в месяц, разница между её годовыми доходами составила " + differencePerYearThree + " рублей");
+        // Конец работы
 
 
 
